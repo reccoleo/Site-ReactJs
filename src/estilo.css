@@ -1,0 +1,465 @@
+
+/* Para usar os css nos items do bootstrap utilize o estilo.css dentro de onde deseja modificar
+como aqui no caso do .navbar */
+.navbar  {
+    background-color: #284466;
+    }
+
+.navbar .nav-item .nav-link{
+    color: #FFF;
+}
+
+button .menu-hamburguer{
+    font-size: 30px;
+    color: #fff;
+}
+
+footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #284466;
+    color: #FFF;
+}
+
+.borda{
+    background: #ddd;
+    padding: 10px;
+    padding-left: 0px;
+    border-radius: 14px;
+    align-items: center;
+    margin-left: 0px;
+}
+
+.borda iframe{
+    margin-left: 10px;
+}
+
+
+hr{
+    color: #FFF;
+}
+
+.introducao{
+    padding-top: 50px;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 100%;  /*Aqui alteramos o estado das imagens do carrossel, e colocamos elas com o mesmo tamanho*/
+}
+
+.carousel-caption{ /*Aqui colocamos o texto no meio da imagem do carrossel*/
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%); 
+}
+
+.carousel-caption h1{  /*Aqui colocamos uma fonte maior, transformamos em maiusculas e colocamos uma sombra*/
+    font-size: 500%;
+    text-transform: uppercase;  
+    text-shadow: 2px 1px 15px #000;
+}
+
+.carousel-caption h3{ /*Alteramos as letras do h3*/
+    font-size: 200%;
+    font-weight: 500;
+    text-shadow: 2px 1px 10px #000;
+    padding-bottom: 1rem;
+}
+
+.carousel-caption .botao{
+    color: white;
+    background-color: #284466;
+    border-color: #284466;
+    margin: 10px;
+}
+
+.botao3{
+    color: white;
+    background-color: #284466;
+    border-color: #284466;
+    margin: 10px;
+    width: 200px;
+}
+
+.carousel-caption .botao2{
+    background-color: #284468;
+    border-color: #284466;;
+}
+
+.carousel-caption .botao2:hover{
+    background-color: #2844FF;
+    border-color: #2844FF;
+    color: black;
+}
+
+.carousel-indicators{
+    display: none; 
+}
+
+.clientes{
+    background-color: #284466;
+    color: #d5d5d5;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-weight: 50%;
+}
+
+.clientes h4{
+    background: rgba(360,360,360,0.5);
+    border-radius: 5px;
+    padding-bottom: 5px;
+}
+
+.clientes .imagem{
+    padding-top: 50px;
+}
+
+.clientes div div{
+    font-size: 15px;
+}
+
+.padding{  
+    padding-bottom: 2rem;
+}
+
+.welcome{
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.welcome hr{
+    border-top: 2ps solid #b4b4b4;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem
+}
+
+.display-4{
+    font-weight: 400%;
+    padding-bottom: 25px;
+}
+
+.maior{
+    font-size: 15px;
+}
+
+.social{
+    margin-top: 40px;
+}
+
+.social a {  /* Aqui estamos estilizando os icones das redes sociais*/
+    font-size: 4.5em;
+    padding: 30px;;
+}
+
+.fa-facebook{
+    color: #284466;
+}
+
+.fa-instagram{
+    color: #284466;
+}
+
+.fa-linkedin{
+    color: #284466;
+}
+
+.fa-twitter{
+    color: #284466;
+}
+
+.fa-youtube{
+    color: #284466;
+}
+
+.fa-facebook:hover{
+    transition: .5s;
+    color: #282299;
+}
+
+.fa-instagram:hover{
+    transition: .5s;
+    color: #e54d99;
+}
+
+.fa-linkedin:hover{
+    transition: .5s;
+    color: blue;
+} 
+
+.fa-twitter:hover{
+    transition: .5s;
+    color: #4466ff;
+}
+
+.fa-youtube:hover{
+    transition: .5s;
+    color: red;
+}
+
+.vantagem-maior{
+    padding-top: 50px;
+    width: 90%;
+}
+
+.vantagem-maior img{
+    height: 400px;
+}
+
+.vantagem-maior p{
+    color: #284466;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.vantagem-maior .botao{
+    color: white;
+    background-color: #284466;
+    border-color: #284466;
+    margin-bottom: 40px;
+}
+
+.fa-caret-right{
+    color: #284466;
+}
+ 
+.fonte{
+    color: #284466;
+    font-size: 15px;
+    width: 90%;
+}
+
+.titulo{
+    font-size: 30px;
+}
+
+.subtitulo{
+    font-size: 25px;
+}
+
+.introducao{
+    background-color: #284466;
+    color: #FFF;
+    margin-top: -33px;
+}
+
+
+footer h4{
+    padding:20px;
+}
+
+footer h5{
+    margin-bottom: -50px;
+}
+
+.quemsomos{
+    width: 100%;
+    height: 500px;
+    background-image: url("components/img/sentado.png");
+    font-size: 150%;
+    color: #FFF;
+}
+
+.quemsomos .quemsomos2{
+    margin-top: 60px;
+    padding: 30px;
+}
+
+.nadapodeparar{
+    margin-top: -30px;
+}
+
+.naopodeparar1{
+    background-color: #284466;
+}
+
+
+.naopodeparar2{
+    background-color: #d5d5d5;
+    color: #284466;
+    padding: 75px;
+}
+
+.naopodeparar2 h2{
+    font-size: 35px;
+}
+
+hr.light{
+    border-top: 1px solid #d5d5d5;
+    width: 75%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.clientes{
+    background-color: #284466;
+    color: #FFF;
+    margin-top: -70px;
+    padding-top: 60px;
+}
+
+.clientes img{
+    height: 400px;
+    margin-top: 30px;
+}
+
+.clientes .titulo-clientes{
+    padding-top: 30px;
+    font-size: 250%;
+}
+
+.figura2{   
+    background: url("components/img/material.jpg") no-repeat center center fixed;
+    display: table;
+    height: 400px;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+    margin-top: -65px;
+    margin-bottom: 30px;
+}
+
+.rodape2{
+    padding-bottom: 30px;
+}
+
+.aprovacao{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.cartacao{
+    color: #FFF;
+    background-color: #284466;
+    border-radius: 5px;
+}
+
+.servicos3{
+    margin-bottom: -30px;
+}
+
+.contato3{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+}
+
+.contato2{
+    margin-top: -30px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+    color: #FFF;
+    background-color: #284466;
+    
+}
+
+.contato4{
+    padding-bottom: 30px;
+}
+
+.texto-cliente1 p{
+    padding-right: 10px;
+    
+}
+
+.sobre1{
+    padding-bottom: 40px;
+    color: #284466;
+}
+
+.sobre2{
+    padding-bottom: 40px;
+    color: #284466;
+}
+
+.sobre3{
+    color: #284466;
+}
+
+.sobre4{
+    font-size: 130%;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    width: 80%;
+    color: #284466;
+}
+
+.sobretitulo{
+    padding-top: 50px;
+}
+
+.sobretitulo2{
+    font-size: 150%;
+}
+
+.titulo4{
+    padding-bottom: 20px;
+}
+
+.separador{
+    height: 100px;
+}
+
+@media (max-width: 768px){
+    .carousel-caption{
+        top: 45%;
+    }
+
+    .carousel-caption h1{
+        font-size: 350%;
+    }
+
+    .carousel-caption h3{
+        font-size: 140%;
+        font-weight: 400;
+        padding-bottom: .2rem;
+    }
+
+    .carousel-caption .btn{
+        font-size: 95%;
+        padding: 8px 14px;
+    }
+
+    .display-4{
+        font-size: 200%;
+    }
+
+     .social a{
+        font-size: 2.5em;
+        padding: 1.2rem;
+    }
+}
+
+@media (max-width: 576px){
+    .carousel-caption{
+    top: 40%;
+}
+
+.carousel-caption h1{
+    font-size: 250%;
+}
+
+.carousel-caption h3{
+    font-size: 110%;
+}
+
+.carousel-caption .btn{
+    font-size: 90%;
+    padding: 4px 8px;
+}
+
+.display-4{
+    font-size: 160%;
+}
+
+.social a{
+    font-size: 2em;
+    padding: .7rem;
+}
+
+}
