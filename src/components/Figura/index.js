@@ -15,8 +15,8 @@ class Figura extends Component{
                 <div class="carousel-item active">
                     <img src={Imagem} /> 
                     <div class="carousel-caption">
-                        <h1 class="display-2">IMOBO</h1>
-                        <h3>Robôs Imobiliários</h3>
+                        <h1 class="display-2">Lorem Ipsum</h1>
+                        <h3>Lorem Ipsum</h3>
                         <Link to="/sobre"><button type="button" class="btn btn-outline-light btn-lg">Saiba Mais</button></Link>
                         <Link to="/contato"><button type="button" class="btn btn-primary btn-lg botao">Contato</button></Link>
                     </div>

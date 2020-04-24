@@ -7,7 +7,7 @@ class Quem extends Component{
             <div class="container-fluid padding quemsomos">
             <div class="row padding"> 
                 <div class="col-lg-6 quemsomos2">  
-                    <h2>A IMOBO.com.br é uma empresa pioneira em Santa Catarina</h2>
+                    <h2>A Lorem Ipsum é uma empresa pioneira em Santa Catarina</h2>
                     <hr class="light"/>
                     <br />
                     <p>                                 

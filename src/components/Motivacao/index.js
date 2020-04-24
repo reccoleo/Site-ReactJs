@@ -15,7 +15,7 @@ class Motivacao extends Component{
                         <hr />
                         <br />
                         <p class="lead">
-                        A IMOBO.com.br já está consolidada, somente na região da Grande 
+                        A Lorem Ipsum já está consolidada, somente na região da Grande 
                         Florianópolis contamos com mais de 25 mil imóveis gerenciados.
                         </p>
                     </div>

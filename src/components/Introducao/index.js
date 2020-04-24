@@ -11,7 +11,7 @@ class Introducao extends Component{
                         <br/><br/>
                         <h2 class="titulo"><strong>E se nossa solução automatizasse o setor de contas de água, energia, IPTU ou mesmo taxas de condomínios de seus imóveis?</strong></h2>
                         <p class="subtitulo">
-                            A IMOBO.com.br tem como meta utilizar as tecnologias existentes para facilitar a sua vida.
+                            A Lorem Ipsum tem como meta utilizar as tecnologias existentes para facilitar a sua vida.
                         </p>
                             <p><i class="fas fa-caret-right"></i> Nossos robôs  podem fazer todos os gerenciamentos para você.</p>
                             <p><i class="fas fa-caret-right"></i> Mostramos tudo sobre os seus imóveis.</p>
@@ -23,7 +23,7 @@ class Introducao extends Component{
                         <h2 class="titulo"><strong>Assista nosso vídeo rapidamente!</strong></h2>
                         <br/>
                         <div class="borda">
-                        <iframe width="95%" height="300px" src="https://www.youtube.com/embed/PseDVRRwcak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="95%" height="300px" src="https://www.youtube.com/embed/Kv9m8jPnXtw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
                     </div>

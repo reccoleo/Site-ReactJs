@@ -54,7 +54,7 @@ class Servicos extends Component{
                         <div class="col-12"> 
                             <h2>Contratação</h2>
                             <p class="lead">
-                                A IMOBO.com.br faz o gerenciamento de todos os seus imóveis.
+                                A Lorem Ipsum faz o gerenciamento de todos os seus imóveis.
                             </p>
                             <p class="lead">
                                 Aluguel - Água - IPTU - Energia

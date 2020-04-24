@@ -17,24 +17,23 @@ class Clientes extends Component{
                         <div class="col-12">
                             <h4 class="titulo-cliente">Florianópolis - SC</h4>
                         <div class="row-1 texto-cliente1">
-                            <p>Ibagy</p>
-                            <p>Giacomelli</p>
-                            <p>Dalton Andrade</p>
-                            <p>Duda Imóveis</p>
-                            <p>ICA</p>
-                            <p>Regente Imóveis</p>
+                            <p>Dorime</p>
+                            <p>Ameno</p>
+                            <p>Latire</p>
                         </div>
                         </div>
                         <div class="col-12">
                             <h4  class="titulo-cliente">Criciúma - SC</h4>
                         <div class="row-2 texto-cliente2">
-                            <p>Locativa</p>
+                            <p>Ameno Dori</p>
+                            <p>Ameno Dorime</p>
+                            <p>Noctureno</p>
                         </div>
                         </div>
                         <div class="col-12">
-                            <h4  class="titulo-cliente">Brasília - DF</h4>
+                            <h4  class="titulo-cliente">São Paulo - SP</h4>
                         <div class="row-2 texto-cliente13">
-                            <p>Thais Imóveis</p>
+                            <p>Ameno Dorime</p>
                         </div>
                         </div>
                     </div>

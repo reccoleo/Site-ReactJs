@@ -31,10 +31,10 @@ class Sobre extends Component{
                     <div class="row">
                         <div class="col-md-4">
                             
-                            <h2>Sobre a IMOBO.com.br</h2>
+                            <h2>Sobre a Lorem Ipsum</h2>
                            
                             <p>
-                                A IMOBO.com.br é uma startup Catarinense
+                                A Lorem Ipsum é uma startup Catarinense
                                 que vem se destacando no mercado imobiliário nos 
                                 últimos anos.
                             </p>
@@ -85,7 +85,7 @@ class Sobre extends Component{
                             <hr />
                             <br />
                             <p class="lead sobretitulo2">
-                            A IMOBO.com.br já está consolidada, somente na região da Grande 
+                            A Lorem Ipsum já está consolidada, somente na região da Grande 
                             Florianópolis contamos com mais de 25 mil imóveis gerenciados.
                             </p>
                         </div>

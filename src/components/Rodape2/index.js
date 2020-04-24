@@ -10,7 +10,7 @@ class Rodape2 extends Component{
                     <div class="container">
                         <div class="row text-center rodape2">
                             <div class="col-12">
-                                <h5>&copy;projetabrasil.com.br</h5>
+                                <h5>Desenvolvido por &copy; Leonardo Pereira Recco</h5>
                             </div>
                         </div>
                     </div>

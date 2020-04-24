@@ -12,16 +12,16 @@ class Contato extends Component{
                 <div class="container-fluid padding contato3">
                 <div class="row text-center padding">
 
-                <div class="col-lg-6"> 
+                <div class="col-lg-6 imagem-maos"> 
                     <img src={Imagem} class="img-fluid"/>
                 </div>
 
                 <div class="col-lg-6">
                     <h2>Contato</h2>
                         <br />
-                        <p><strong>Fone:</strong>(48) 3067-9453</p>
-                        <p><strong>Celular:</strong>9 8820-0833</p>
-                        <p><strong>Email:</strong> paulo@projetabrasil.net.br</p>
+                        <p><strong>Fone:</strong>(48) 998000000</p>
+                        <p><strong>Whatsapp:</strong>(48) 998000000</p>
+                        <p><strong>Email:</strong> loremipsum@email.com</p>
                 </div>
                 
             </div>
@@ -36,15 +36,15 @@ class Contato extends Component{
                         <strong>Segunda á Sexta:</strong>
                         <p>09:00 até 12:00 | 13:00 até 18:00</p>
                         <br />
-                        <p>Avenida Madre Benvenuta, núm. 1490
-                        CEP: 88035-000
+                        <p>Lorem Ipsum , núm. 1268
+                        CEP: 88000-000
                         Florianópolis, SC</p>
                 </div>
                     <div class="col-lg-6 contato4"> 
                     <h2>O Futuro está aqui</h2>
                     <br />
                             <p>
-                                A IMOBO.com.br é uma startup Catarinense
+                                A Lorem Ipsum é uma startup Catarinense
                                 que vem se destacando no mercado imobiliário nos 
                                 últimos anos.
                             </p>

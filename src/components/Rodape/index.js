@@ -14,7 +14,7 @@ class Rodape extends Component{
                             <h4>Sobre</h4>
                            
                             <p>
-                                A IMOBO.com.br é uma startup Catarinense
+                                A Lorem Ipsum é uma startup Catarinense
                                 que vem se destacando no mercado imobiliário nos 
                                 últimos anos.
                             </p>
@@ -30,11 +30,11 @@ class Rodape extends Component{
                       
                         <h4>Contato</h4>
                        
-                        <p>Avenida Madre Benvenuta, núm. 1490</p>
-                        <p>CEP: 88035-000</p>
+                        <p>Bairro Lorem Ipsum</p>
+                        <p>CEP: 88000-000</p>
                         <p>Florianópolis, SC</p>
-                        <p><strong>Fone:</strong>(48)3067-9453/ 9 8820 0833</p>
-                        <p><strong>Email:</strong> paulo@projetabrasil.net.br</p>
+                        <p><strong>Fone:</strong>(48) 998000000</p>
+                        <p><strong>Email:</strong> loremipsum@email.com</p>
                     </div>
 
                     <div class="col-md-4">
@@ -47,7 +47,7 @@ class Rodape extends Component{
                     </div>
                     <div class="col-12">
                     <hr class="light"/>
-                        <h5>&copy;imobo.com.br</h5>
+                        <h5>Desenvolvido por &copy; Leonardo Pereira Recco</h5>
                     </div>
                 </div>
             </div>
