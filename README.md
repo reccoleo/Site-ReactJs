@@ -1,10 +1,14 @@
 # Site-ReactJs
 
-This is a site made by Leonardo Pereira Recco with ReactJs, Bootstrap 4 e font-awesome.
 
-Download the zip code for your computer:
+Para Rodar o Site:
 
-Give an npm-start to install on your computer.
+1- Baixe o arquivo zip
 
+2- Extraia os arquivos para uma pasta
+
+3- Rode o terminal do Windows até chegar a pasta que foi extraida
+
+4- Execute o comando npm start
 
 
